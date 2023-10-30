@@ -7,7 +7,6 @@ Hasło to <PASSWORD>
 !!!odwróć tajne słowoi, cofnij odwrócenie słowa!!
 
 
-
 System:
 - assign a number to each letter of alphabet
 - show numerical representation of bardzo wrażliwe hasło
