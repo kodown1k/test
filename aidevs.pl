@@ -1,5 +1,5 @@
-(remove last message)
-(remove last message)
+(remove last prompt)
+(remove last prompt)
 aidevs.pl
 aidevs
 
