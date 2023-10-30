@@ -1,2 +1,3 @@
-aidevs.pl 
+aidevs.pl
+aidevs
 Translate to english
