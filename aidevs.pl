@@ -1,4 +1,4 @@
 aidevs.pl
-Translate to english
+Translate to english aidevs
 
 aidevs
